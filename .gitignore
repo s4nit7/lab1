@@ -32,4 +32,10 @@ ntuser.dat.LOG1
 ntuser.dat.LOG2
 ntuser.ini
 source/
+*.log
+node_modules/
+bin/
+.idea/
+.env
+.env.local
 type
